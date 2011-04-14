@@ -4,7 +4,7 @@ unlinker4flash
 In many cases it's undesirable that a given (temporary) file be unlinked by some
 other program.
 
-A scenario in which I find useful to trick a program into thinking that a files
+A scenario in which I find useful to trick a program into thinking that a file
 was unlinked is when libflashplugin.so tries to unlink a temporary-flv video
 that I'm currently watching. This is why I created unlinker4flash.
 
