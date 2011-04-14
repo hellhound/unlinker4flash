@@ -39,7 +39,7 @@ To cope i386 code generation from a 64-bit code and loading, do the following:
     <pre>
     <code>
     LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/path/to/your/unlinker4flash.so \
-    LD_PRELOAD=/path/to/your/unlink.so your-browser &
+    LD_PRELOAD=/path/to/your/unlinker4flash.so your-browser &
     </code>
     </pre>
 
